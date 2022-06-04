@@ -1,2 +1,2 @@
 # MiniSideProjects
-Some of my basic side projects
+Some of my side projects and University projects during my graduation
